@@ -1,2 +1,2 @@
 # javascript-understanding
-Exercises for JavaScript: Understanding the weird parts
+Exercises for Udemy-JavaScript: Understanding the weird parts
